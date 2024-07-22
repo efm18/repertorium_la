@@ -1,0 +1,5 @@
+names: null
+path: webui/data\repertorium
+test: images/test
+train: images/train
+val: images/validation

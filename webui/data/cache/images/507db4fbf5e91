@@ -1,0 +1,26 @@
+{
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "protocol" : "http://iiif.io/api/image",
+  "width" : 5440,
+  "height" : 4080,
+  "sizes" : [
+     { "width" : 170, "height" : 127 },
+     { "width" : 340, "height" : 255 },
+     { "width" : 680, "height" : 510 },
+     { "width" : 1360, "height" : 1020 },
+     { "width" : 2720, "height" : 2040 }
+  ],
+  "tiles" : [
+     { "width" : 256, "height" : 256, "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ] }
+  ],
+  "@id" : "https://iiif.irht.cnrs.fr/iiif/France/Saint-Omer/Bibliotheque_municipale/627656201_MS0383/DEPOT/627656201_MS0383_0163",
+  "profile" : [
+     "http://iiif.io/api/image/2/level1.json",
+     { "formats" : [ "jpg", "png", "webp" ],
+       "qualities" : ["native","color","gray","bitonal"],
+       "supports" : ["regionByPct","regionSquare","sizeByForcedWh","sizeByWh","sizeAboveFull","sizeUpscaling","rotationBy90s","mirroring"],
+       "maxWidth" : 8000,
+       "maxHeight" : 8000
+     }
+  ]
+}

@@ -1,0 +1,5 @@
+names: null
+path: C:\Users\efuen\Desktop\El Iseo\Repertorium\pymuret\webui\data\annotated
+test: images/test
+train: images/train
+val: images/validation
