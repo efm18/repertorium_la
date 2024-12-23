@@ -1,5 +1,7 @@
 # Layout Analysis for Repertorium Project
 
+> **This code is part of REPERTORIUM project, funded by the European Union’s Horizon Europe programme under grant agreement No 101095065.**
+
 This repository is designed to perform layout analysis of the manuscripts from the Repertorium project. This is a demo that includes a simple UI in order to explain graphically the steps to follow.
 
 ## Usage
